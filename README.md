@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Heon Soo Park
-- 👀 I’m interested in learning about coding and I'm mostly familiar with Object Oriented Languages.
-- 🌱 I’m currently learning Java Script because I want to get into web development.
+- 👀 I’m interested in learning about coding, I'm mostly familiar with object oriented languages, but I've been learning new types of languages.
+- 🌱 I’m currently learning about web developement at codecademy both front end and back end because I was interested in web development.
+- ✨ I am currently looking for a full-time opportunity to grow my knowledge and experience in software development and engineering.
 - 📫 Reach me at hspark220@gmail.com
 
 <!---
