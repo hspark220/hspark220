@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Heon Soo Park
-- 👀 I’m a beginner coder, starting my web development journey.
+- 👀 Just trying to learn...
 
 <!---
 hspark220/hspark220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
